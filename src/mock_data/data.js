@@ -4,7 +4,7 @@ import { Target, Utensils, Book } from "lucide-react";
 
 export const activityData = [
   { day: "8", value: 8000 },
-  { day: "9", value: 3000 },
+  { day: "9", value: 2200 },
   { day: "10", value: 4000 },
   { day: "11", value: 3000 },
   { day: "12", value: 4000 },
@@ -27,7 +27,7 @@ export const activityData = [
 
 export const recentOrders = [
   {
-    customer: "Wade Waan",
+    customer: "Warner Irish",
     orderNo: "15478256",
     amount: "$124.00",
     status: "Delivered",
@@ -39,46 +39,46 @@ export const recentOrders = [
     status: "Delivered",
   },
   {
-    customer: "Guy Hawkins",
+    customer: "Gujju Hawkins",
     orderNo: "78958215",
     amount: "$45.88",
     status: "Cancelled",
   },
   {
-    customer: "Kristin Watson",
+    customer: "Kristina Watson",
     orderNo: "20965732",
     amount: "$85.00",
     status: "Pending",
   },
   {
-    customer: "Cody Fisher",
+    customer: "Codiiee Fisher",
     orderNo: "95715620",
     amount: "$545.00",
     status: "Delivered",
   },
   {
-    customer: "Savannah Nguyen",
+    customer: "Aman Patel",
     orderNo: "78514568",
-    amount: "$128.20",
+    amount: "$1284.20",
     status: "Delivered",
   },
 ];
 
 export const customerFeedback = [
   {
-    name: "Jenny Wilson",
+    name: "Zafar Iqubal",
     rating: 4,
     comment:
-      "The food was excellent and so was the service. I had the mushroom risotto with scallops which was awesome. I had a burger over greens (gluten-free) which was also very good. They were very conscientious about gluten allergies.",
+      "The food was excellent and so was the service.  I had the mushroom risotto with scallops which was awesome. I had a burger over greens (gluten-free) which was also very good. They were very conscientious about gluten allergies.",
   },
   {
-    name: "Dianne Russell",
+    name: "Andrei Neagoie",
     rating: 5,
     comment:
-      "We enjoyed the Eggs Benedict served on homemade focaccia bread and hot coffee. Perfect service.",
+      "We enjoyed the Eggs Benedict served on homemade focaccia bread and hot coffee. Perfect service. Love it 😊",
   },
   {
-    name: "Devon Lane",
+    name: "Daywne0 Laanne",
     rating: 5,
     comment:
       "Normally wings are not meaty and tender, and they are lean meaty and tender. and super delicious. Best wings ever! Highly recommend.",
